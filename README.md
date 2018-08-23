@@ -11,7 +11,7 @@
 		setTimeout(DelCartItems,1000);
 	}
 	else {
-		console.log('Finished');
+		console.log('Shopping Cart is Empty Now ! Happy Shopping');
 	}
 }
-DelCartItems();```
+DelCartItems();
