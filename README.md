@@ -1,6 +1,8 @@
 # AmazonCart_ItemsDeleter.js
-Script to delete items in your amazon cart
-function DelCartItems() {
+
+### Script to delete items in your amazon cart
+
+```function DelCartItems() {
 	var buffer = document.querySelectorAll("#sc-active-cart input[value=Delete]")
 	if (buffer.length) {
 		buffer[0].click();
@@ -12,4 +14,4 @@ function DelCartItems() {
 		console.log('Finished');
 	}
 }
-DelCartItems();
+DelCartItems(); ```
