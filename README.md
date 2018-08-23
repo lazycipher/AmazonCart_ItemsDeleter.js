@@ -15,9 +15,4 @@ function DelCartItems() {
 		console.log('Shopping Cart is Empty Now ! Happy Shopping');
 	}
 }
-<<<<<<< HEAD
 DelCartItems();
-=======
-DelCartItems();
-```
->>>>>>> a5a1e40e90d745ca44010f4be5b5ddee50a1db7b
