@@ -14,4 +14,4 @@
 		console.log('Finished');
 	}
 }
-DelCartItems(); ```
+DelCartItems();```
